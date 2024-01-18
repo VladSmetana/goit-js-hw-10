@@ -79,6 +79,7 @@ button[data-start] {
 
 button[data-start]:hover {
   background-color: #6C8CFF;
+  color: #FFFFFF;
 }
 
 button[data-start]:disabled {
